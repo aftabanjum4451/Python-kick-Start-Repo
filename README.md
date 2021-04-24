@@ -15,4 +15,5 @@
 - Test module
 - OpenCV
 
-
+# practice module
+The practice module contains different practice exercises of all those concepts listed above.
