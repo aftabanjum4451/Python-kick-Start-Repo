@@ -1,0 +1,12 @@
+{
+    "user": {
+        "name": "ali hassan ",
+        "age": 30,
+        "city": "lahore"
+    },
+    "company": {
+        "name_company": "lahore limited",
+        "location_company": "lahore gulberge",
+        "net werth": 50000
+    }
+}
